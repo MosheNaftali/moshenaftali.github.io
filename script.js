@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'project-3-desc': 'Food delivery application. Includes authentication system, menu display, file upload, and restaurant geolocation.',
             'project-4-title': 'Hebrew Calendar',
             'project-4-desc': 'Mobile application that allows visualization of the Jewish calendar, as well as relevant holidays and times.',
-            'project-5-title': 'Currency Converter App',
+            'project-5-title': 'Currency Converter',
             'project-5-desc': 'Mobile application for converting currencies in real-time, with a clean and intuitive interface.',
             'experience-title': 'Work Experience',
             'exp-1-date': 'February 2024 - Present',
